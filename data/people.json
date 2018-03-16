@@ -1,0 +1,60 @@
+{
+    "people": {
+        "1": {
+            "id": 1,
+            "first_name": "Ricardo",
+            "last_name": "Canelas",
+            "country": "Portugal",
+            "friends": ["2", "3"]
+        },
+        "2": {
+            "id": 2,
+            "first_name": "Larissa",
+            "last_name": "González",
+            "country": "Paraguay",
+            "friends": ["1", "3"]
+        },
+        "3": {
+            "id": 3,
+            "first_name": "Mikaela",
+            "last_name": "Rodriguez",
+            "country": "Uruguay",
+            "friends": ["2","1"]
+        },
+        "4": {
+            "id": 4,
+            "first_name": "Chicharito",
+            "last_name": "Hernández",
+            "country": "Mexico",
+            "friends": ["2","1","3"]
+        },
+        "5": {
+            "id": 5,
+            "first_name": "Rachel",
+            "last_name": "Pérez",
+            "country": "Mexico",
+            "friends": ["2","1","3","4"]
+        },
+        "6": {
+            "id": 6,
+            "first_name": "Mayumi",
+            "last_name": "Quispe",
+            "country": "Peru",
+            "friends": ["3","4"]
+        },
+        "7": {
+            "id": 7,
+            "first_name": "Domenica",
+            "last_name": "Zambrano",
+            "country": "Cuba",
+            "friends": ["1","6"]
+        },
+        "8": {
+            "id": 8,
+            "first_name": "Beatriz",
+            "last_name": "da Silva",
+            "country": "Brazil",
+            "friends": ["1","6","7"]
+        }
+    }
+}
